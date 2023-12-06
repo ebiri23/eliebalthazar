@@ -1,0 +1,4 @@
+.position { font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;transition: 0.9s;color: #b4ebc4; cursor: alias;padding: 10px;background-color: rgb(11, 226, 22);}
+  .accordion {display: none;overflow: hidden;padding: 0 58px;background-color: rgb(255, 255, 255);}
+  .active, .position:hover {background-color: rgb(20, 233, 48);}
+ .down {width: 100%; height: 100%;} 
